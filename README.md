@@ -77,7 +77,17 @@ Through Java, this course introduces a structured approach to solving complex pr
 <br>
 
 # <a id = "proj_acknowledgement"> ☕ Acknowledgement </a> 
+
+I would like to express my sincere gratitude to **Ms. Fatima Marie P. Agdon**, our course facilitator and instructor for **CS 211 - Object-Oriented Programming**. Her passion for teaching and dedication to her students have made a lasting impact on my understanding of OOP. With her clear explanations, thoughtful feedback, and constant encouragement, she has helped me navigate the challenges of programming with confidence. I truly appreciate her support and the engaging learning environment she created, which made every lesson a valuable experience. 
+
+**Thank you, Ms. Agdon, for your guidance and inspiration throughout this course.** 💝💻
+<br>
+
 # <a id = "rsrc_developer"> ☕ Resource Developer </a> 
 <p align="center">
-   <img src="ReadMe/Develop.png" alt="Developer" style="max-width: 100%; height: auto;">
+   <img src="ReadMe/Developer.png" alt="Developer" style="max-width: 100%; height: auto;">
 </p>
+
+### 🌟 About the Developer🌟
+
+---
