@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="ReadMe/Header.png" alt="FitSpace Logo" style="max-width: 100%; height: auto;">
+   <img src="ReadMe/Header.png" alt="Header style="max-width: 100%; height: auto;">
 </p>
 
 # 🌟💻 CS 211 Repository 
@@ -8,19 +8,17 @@ Welcome to my **CS 211 Repository**! This repository serves as a comprehensive a
 
 This repository not only highlights my academic achievements but also demonstrates the practical skills I've developed, preparing me for future endeavors in the world of software development.
 
-Feel free to dive into the code, explore my projects, and see how I've evolved as a programmer! 👩‍💻
+Feel free to dive into the code, explore my projects, and see how I've evolved as a programmer! 
 
 <br>
 
-
-# ☕ Summary of Sections
--  [1.  Course Introduction](#course_intro)
--  [2.  Exercise Sets](#exercise_sets)
--  [3. Laboratory Activities](#lab_acts)
--  [4. Resource Developer](#rsrc_developer)
--  [5. Acknowledgement](#proj_acknowledgement)
+# ☕ **Table of Contents**   
+💻 [**1. Course Introduction**](#course_intro)  
+💻 [**2. Exercise Sets**](#exercise_sets)  
+💻 [**3. Laboratory Activities**](#lab_acts)  
+💻 [**4. Acknowledgement**](#proj_acknowledgement)  
+💻 [**5. Resource Developer**](#rsrc_developer)  
 <br>
-
 
 # <a id = "course_intro"> ☕ Course Introduction </a> 
  **CS-211 Object-Oriented Programming** is a core course designed to deepen students' understanding of software design and development using object-oriented principles. The programming language of focus for this course is **Java**, a versatile and widely-used language renowned for its robustness, simplicity, and powerful object-oriented features.
@@ -39,27 +37,29 @@ Through Java, this course introduces a structured approach to solving complex pr
 &nbsp;&nbsp;&nbsp;&nbsp;✨ **Bonus Topics:** Collections & Exception Handling
 
 ---
+<br>
 
 # <a id="exercise_sets"> ☕ Exercise Sets </a>
-| **Exercise Set**  | **Topics Covered**                                         | **Files Included**                                           |
-|-------------------|------------------------------------------------------------|--------------------------------------------------------------|
-| **💻 Exercise Set 01** | Introduction to Java  | `Escseq.java`, `Tempconvert.java`, `Welcome.java`             |
-| **💻 Exercise Set 02** | Encapsulation | `Car.java`, `Main.java`                                       |
+
+###  🌟 **Overview of Exercise Sets for CS 211** 🌟
+
+| **Exercise Set**           | **Topics Covered**                         | **Files Included**                                         |
+|----------------------------|--------------------------------------------|------------------------------------------------------------|
+| **💻 Exercise Set 01**      | Introduction to Java                       | `Escseq.java`, `Tempconvert.java`, `Welcome.java`           |
+| **💻 Exercise Set 02**      | Encapsulation                              | `Car.java`, `Main.java`                                     |
 
 ---
+🔍 **Exercise Set 01**  
+> Covers Java basics including input/output handling, escape sequences, and working with data types. The exercises help practice foundational concepts through simple Java programs.
 
-### 🌟 Overview of Exercise Sets for CS 211 🌟
+🔍 **Exercise Set 02**  
+> Focuses on **Encapsulation** in Java, teaching you how to define classes, protect data with access modifiers, and create getters and setters. This exercise is crucial for understanding the importance of data protection in object-oriented design.
 
-🔍 **Exercise Set 01** 
-> covers Java basics including input/output handling, escape sequences, and working with data types. The exercises help you practice foundational concepts through simple Java programs.
-
-🔍 **Exercise Set 02** 
-> focuses on **Encapsulation** in Java, teaching you how to define classes, protect data with access modifiers, and create getters and setters. This exercise is crucial for understanding the importance of data protection in object-oriented design.
 ---
 <br>
 
 # <a id = "lab_acts"> ☕ Laboratory Activities </a> 
-
+### 🌟 Overview of Lboratory Activities for CS 211 🌟
 | **Laboratory Activity**  | **Topics Covered**                                         | **Files Included**                                           |
 |--------------------------|------------------------------------------------------------|--------------------------------------------------------------|
 | **💻 Laboratory Activity 01** | Introduction to Java                                      | `GettingGreater.java`, `GettingInputs.java`                   |
@@ -68,9 +68,6 @@ Through Java, this course introduces a structured approach to solving complex pr
 | **💻 Laboratory Activity 04** | Abstraction                   |  |
 
 ---
-
-### 🌟 Overview of Lboratory Activities for CS 211 🌟
-
 🔍 **Laboratory Activity 1** 
 > Covers Java basics, including user input/output, character comparison, and displaying ASCII values through simple Java programs.
 
@@ -78,3 +75,9 @@ Through Java, this course introduces a structured approach to solving complex pr
 > Covers Java flow control, arrays, and functions, with exercises on calculating array mean and generating a multiplication table.
 ---
 <br>
+
+# <a id = "proj_acknowledgement"> ☕ Acknowledgement </a> 
+# <a id = "rsrc_developer"> ☕ Resource Developer </a> 
+<p align="center">
+   <img src="ReadMe/Develop.png" alt="Developer" style="max-width: 100%; height: auto;">
+</p>
