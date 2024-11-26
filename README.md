@@ -12,13 +12,15 @@ Feel free to dive into the code, explore my projects, and see how I've evolved a
 
 <br>
 
-# ☕ **Table of Contents**   
+# ☕ **Table of Contents**
 💻 [**1. Course Introduction**](#course_intro)  
-💻 [**2. Exercise Sets**](#exercise_sets)  
-💻 [**3. Laboratory Activities**](#lab_acts)  
-💻 [**4. Acknowledgement**](#proj_acknowledgement)  
-💻 [**5. Resource Developer**](#rsrc_developer)  
+💻 [**2. Course Requirements Checklist**](#course_reqs)  
+💻 [**3. Exercise Sets**](#exercise_sets)  
+💻 [**4. Laboratory Activities**](#lab_acts)  
+💻 [**5. Acknowledgement**](#proj_acknowledgement)  
+💻 [**6. Resource Developer**](#rsrc_developer)  
 <br>
+
 
 # <a id = "course_intro"> ☕ Course Introduction </a> 
  **CS-211 Object-Oriented Programming** is a core course designed to deepen students' understanding of software design and development using object-oriented principles. The programming language of focus for this course is **Java**, a versatile and widely-used language renowned for its robustness, simplicity, and powerful object-oriented features.
@@ -36,7 +38,30 @@ Through Java, this course introduces a structured approach to solving complex pr
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 **Module 7:** Abstraction  
 &nbsp;&nbsp;&nbsp;&nbsp;✨ **Bonus Topics:** Collections & Exception Handling
 
+<br>
+
+# <a id="course_reqs"> ✅ Course Requirements Checklist </a>
+
+This **checklist** includes all the required **exercise sets**, **laboratory activities**, and the **final project** for CS-211 Object-Oriented Programming.
+
 ---
+
+### 💻 **Exercise Sets**  
+- [x] **Exercise Set 01**  
+- [x] **Exercise Set 02**  
+
+---
+
+### 💻 **Laboratory Activities**  
+- [x] **Laboratory Activity 01**  
+- [x] **Laboratory Activity 02**  
+- [x] **Laboratory Activity 03**  
+- [ ] **Laboratory Activity 04**  
+
+---
+
+### 💻 **Final Project**  
+- [ ] Java Console Program
 <br>
 
 # <a id="exercise_sets"> ☕ Exercise Sets </a>
@@ -65,7 +90,7 @@ Through Java, this course introduces a structured approach to solving complex pr
 | **💻 Laboratory Activity 01** | Introduction to Java                                      | `GettingGreater.java`, `GettingInputs.java`                   |
 | **💻 Laboratory Activity 02** | Java Flow Control, Arrays, and Functions                   | `GetArrayMean.java`, `MultiplicationTable.java`               |
 | **💻 Laboratory Activity 03** | Encapsulation, Inheritance, Polymorphism                   | `Artist.java`, `Dancer.java`, `ArtistDemo.java`, `Painter.java`, `Singer.java`, `Writer.java` |
-| **💻 Laboratory Activity 04** | Abstraction                   |  |
+| **💻 Laboratory Activity 04** | Abstraction               | `Main.java`, `Shape.java`, `Rectangle.java`, `Square.java`, `Triangle.java`, `ShapeCollection.java`, `Lab4-output.png`|
 
 ---
 🔍 **Laboratory Activity 1** 
@@ -73,6 +98,12 @@ Through Java, this course introduces a structured approach to solving complex pr
 
 🔍 **Laboratory Activity 2** 
 > Covers Java flow control, arrays, and functions, with exercises on calculating array mean and generating a multiplication table.
+
+🔍 **Laboratory Activity 03**  
+> Focuses on Encapsulation, Inheritance, and Polymorphism, using the `Artist` class as a base class for subclasses like `Singer`, `Painter`, and `Dancer`.
+
+🔍 **Laboratory Activity 04**  
+> Covers the concept Abstraction using shapes, including working with abstract classes and collections.
 ---
 <br>
 
@@ -88,6 +119,12 @@ I would like to express my sincere gratitude to **Ms. Fatima Marie P. Agdon**, o
    <img src="ReadMe/Developer.png" alt="Developer" style="max-width: 100%; height: auto;">
 </p>
 
-### 🌟 About the Developer🌟
+### 🌟 About the Developer 🌟
+
+Hi! I’m **Anthonina Dhapniella C. Vael**, a second-year **BS Computer Science** student. Although I’ve faced challenges in programming, **CS 211** was both tough and rewarding, pushing me to grow as a coder. Coding has become more enjoyable, and I’m excited to continue learning and improving in the field! 💝💻
+
+I’m also excited to share my final project, **FitSpace**—a facility management system for the Fitness Development Center of Batangas State University- Alangilan Campus. It’s been a great experience applying what I’ve learned to this project.
+
+Check out the source code on my [GitHub Repository](https://github.com/andavael/FitSpace). Your feedback is welcome!
 
 ---
