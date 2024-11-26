@@ -92,10 +92,10 @@ This **checklist** includes all the required **exercise sets**, **laboratory act
 > Covers Java flow control, arrays, and functions, with exercises on calculating array mean and generating a multiplication table.
 
 🔍 **Laboratory Activity 3**  
-> Focuses on Encapsulation, Inheritance, and Polymorphism, using the `Artist` class as a base class for subclasses like `Singer`, `Painter`, and `Dancer`.
+> Covers Encapsulation, Inheritance, and Polymorphism, using the `Artist` class as a base class for subclasses like `Singer`, `Painter`, and `Dancer`.
 
 🔍 **Laboratory Activity 4**  
-> Covers the concept Abstraction using shapes, including working with abstract classes and collections.
+> Covers the concept of abstraction using shapes, including working with abstract classes and collections.
 <br>
 
 # <a id = "proj_acknowledgement"> ☕ Acknowledgement </a> 
