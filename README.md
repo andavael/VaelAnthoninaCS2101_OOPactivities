@@ -38,27 +38,21 @@ Through Java, this course introduces a structured approach to solving complex pr
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 **Module 7:** Abstraction  
 &nbsp;&nbsp;&nbsp;&nbsp;✨ **Bonus Topics:** Collections & Exception Handling
 
+---
 <br>
 
 # <a id="course_reqs"> ✅ Course Requirements Checklist </a>
 
 This **checklist** includes all the required **exercise sets**, **laboratory activities**, and the **final project** for CS-211 Object-Oriented Programming.
-
----
-
 ### 💻 **Exercise Sets**  
 - [x] **Exercise Set 01**  
 - [x] **Exercise Set 02**  
-
----
 
 ### 💻 **Laboratory Activities**  
 - [x] **Laboratory Activity 01**  
 - [x] **Laboratory Activity 02**  
 - [x] **Laboratory Activity 03**  
 - [ ] **Laboratory Activity 04**  
-
----
 
 ### 💻 **Final Project**  
 - [ ] Java Console Program
@@ -79,8 +73,6 @@ This **checklist** includes all the required **exercise sets**, **laboratory act
 
 🔍 **Exercise Set 02**  
 > Focuses on **Encapsulation** in Java, teaching you how to define classes, protect data with access modifiers, and create getters and setters. This exercise is crucial for understanding the importance of data protection in object-oriented design.
-
----
 <br>
 
 # <a id = "lab_acts"> ☕ Laboratory Activities </a> 
@@ -99,12 +91,11 @@ This **checklist** includes all the required **exercise sets**, **laboratory act
 🔍 **Laboratory Activity 2** 
 > Covers Java flow control, arrays, and functions, with exercises on calculating array mean and generating a multiplication table.
 
-🔍 **Laboratory Activity 03**  
+🔍 **Laboratory Activity 3**  
 > Focuses on Encapsulation, Inheritance, and Polymorphism, using the `Artist` class as a base class for subclasses like `Singer`, `Painter`, and `Dancer`.
 
-🔍 **Laboratory Activity 04**  
+🔍 **Laboratory Activity 4**  
 > Covers the concept Abstraction using shapes, including working with abstract classes and collections.
----
 <br>
 
 # <a id = "proj_acknowledgement"> ☕ Acknowledgement </a> 
@@ -127,4 +118,3 @@ I’m also excited to share my final project, **FitSpace**—a facility manageme
 
 Check out the source code on my [GitHub Repository](https://github.com/andavael/FitSpace). Your feedback is welcome!
 
----
