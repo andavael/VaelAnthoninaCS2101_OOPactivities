@@ -52,10 +52,10 @@ This **checklist** includes all the required **exercise sets**, **laboratory act
 - [x] **Laboratory Activity 01**  
 - [x] **Laboratory Activity 02**  
 - [x] **Laboratory Activity 03**  
-- [ ] **Laboratory Activity 04**  
+- [x] **Laboratory Activity 04**  
 
 ### 💻 **Final Project**  
-- [ ] Java Console Program
+- [x] Java Console Program
 <br>
 
 # <a id="exercise_sets"> ☕ Exercise Sets </a>
